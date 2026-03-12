@@ -6,9 +6,11 @@ reviewers:
 - tnierman
 - nephomaniac 
 - hbhushan3
+- srep-functional-team-hulk
 approvers:
 - clcollins
 - dustman9000
-- iamkirkbater
+- tkong-redhat
+- rbhilare
 - srep-functional-leads
 - srep-team-leads
